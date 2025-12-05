@@ -1,5 +1,5 @@
 # 🍩 ASCII Torus Renderer — A Spiraling 3D Donut in Pure Python
-![ASCII Donut Demo](donut.gif)
+![ASCII Donut Demo](Donut.gif)
 
 
 This project renders a **fully rotating 3D torus (donut)** inside your terminal using nothing but Python, NumPy, trigonometry, and raw ASCII characters.  
