@@ -16,7 +16,7 @@ The donut is generated using the **parametric equations of a torus**, rotated th
 - **ASCII luminance ramp:** gives the illusion of lighting and curvature  
 
 In short:  
-**Real math. Fake graphics card. Very real donut.**
+**Real math. Fake graphics card. Very real donut. hehe**
 
 ## 🚀 Run It
 
